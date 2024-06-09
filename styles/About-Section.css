@@ -1,0 +1,4 @@
+.Main .About-Section {
+    grid-row: 3/4;
+    height: 100vh;
+}
